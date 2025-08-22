@@ -1,0 +1,1 @@
+Exploratory Data Analysis (EDA) of clinical data to uncover risk factors like age, gender, TSH levels, and nodule size for thyroid cancer. Provides insights for early detection and sets the foundation for future predictive machine learning models.
